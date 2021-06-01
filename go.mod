@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/zosma180/go-poc
 
 go 1.14
 
